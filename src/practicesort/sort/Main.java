@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         int[] array = {20, 100, 10, 90, 60, 10};
 
-        //
+        // バブルソート実行
         bubbleSort(array);
         System.out.println(Arrays.toString(array));
     }
